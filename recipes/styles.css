@@ -1,0 +1,12 @@
+h1 { 
+    color: black;
+}
+a {
+    color: darkblue;
+}
+a:hover {
+    color: darkred;
+}
+#desc {
+    margin-right: 1000px;
+}
